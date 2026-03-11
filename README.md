@@ -1,4 +1,13 @@
-voici  l’URL publique: https://mon-portfolio-react-rho.vercel.app
+#  Portfolio React Pro (Vite + TS)
+
+### Structure de projet 
+
+<img width="578" height="880" alt="Screenshot 2026-03-11 013334" src="https://github.com/user-attachments/assets/7159ec54-d55c-4885-85cf-2de669acbb37" />
+
+
+
+
+### voici  l’URL publique: https://mon-portfolio-react-rho.vercel.app
 
 <img width="1919" height="974" alt="Screenshot 2026-03-09 002300" src="https://github.com/user-attachments/assets/8c7154ba-f225-4b41-acde-20af43eb2d46" />
 <img width="1915" height="924" alt="Screenshot 2026-03-09 002316" src="https://github.com/user-attachments/assets/f6054af4-ada0-413a-877f-07721d901858" />
